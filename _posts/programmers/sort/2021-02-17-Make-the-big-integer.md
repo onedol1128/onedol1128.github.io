@@ -21,37 +21,7 @@ $ git fetch upstream
 신텍스 하이라이트 테스트
 ======================
 
-파이썬 테스트1
-```
-```python
-import random
-
-# zzz
-roll = random.randint(1, 20)
-``` #REMOVE
-```
-
-파이썬 테스트2
-```python
-import random
-
-# zzz
-roll = random.randint(1, 20)
-```
-
-C++도 되려나?
-```
-```c++
-#include <iostream>
-
-int main() {
-    cout << "hello world!" << endl;
-    return 0;
-}
-``` #REMOVE
-```
-
-C++ 2
+C++ 
 ```c++
 #include <iostream>
 
