@@ -60,3 +60,9 @@ int main() {
     return 0;
 }
 ```
+
+이미지 링크 테스트1
+![test image](https://onedol1128.github.io/images/cc_by_88x31.png)[전체 경로 주소 입력한 이미지 주소](https://google.com)
+
+이미지 링크 테스트2
+![test image]({{ site.baseurl}}/images/cc_by_88x31.png)[베이스 경로에 추가 경로만 입력](https://google.com)
