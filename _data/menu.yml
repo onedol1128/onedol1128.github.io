@@ -16,7 +16,7 @@ entries:
   #    show_more_text: See archive...
   #    show_more_url: archive.html
 
-  - title: algorithm for programmers
+  - title: Programmers 테스트 문제
     post_list:
       category: programmers
       show_more: true
